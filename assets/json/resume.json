@@ -1,199 +1,315 @@
 {
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Juliett M. Suárez Ferreira",
+    "label": "Helping companies to solve problems based on data. Committed to responsible and ethical use of machine learning to benefit society.",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "juliettm@gmail.com",
+    "phone": "",
+    "url": "",
+    "summary": "I have 8+ years hands on business experience as Data Scientist in different businesses (size, model, approach) where I’ve managed to help Marketing, Operations, Sales and Tech teams be aware of and act upon relevant information extracted from company data. By building and providing personalised dashboards in Tableau, recommender systems with ML and other data products, we have slashed operational costs, optimised productivity and automated numerous tasks.    \nI also have five years of experience working in the academy where I could learn structured, formal knowledge and methodologies while I was teaching and being part of an investigation group.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
       "countryCode": "US",
-      "region": "California"
+      "address": "Spain"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "juliettm",
+        "url": "https://www.linkedin.com/in/juliettm/"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Adigital",
+      "position": "Manager of Artificial Intelligence",
+      "startDate": "2024-02-28",
+      "endDate": "",
+      "highlights": [],
+      "url": "https://www.linkedin.com/company/adigital/"
+    },
+    {
+      "name": "Data Innovation",
+      "position": "Principal Data Scientist",
+      "startDate": "2021-05-31",
+      "endDate": "2024-02-28",
+      "highlights": [],
+      "summary": "- Developing and optimising machine learning algorithms to improve (Content labeling and classification, Recommender Systems, Text Generation, ) - Pyhton, Keras.\n- Identifying valuable data sources and automate collection processes  to inform business decisions and strategies - Python, Airflow, AWS, Tableau Prep.\n- Adept at using data visualisation tools to effectively communicate results to a wide range of audiences - Athena, Tableau.\n- Translating technical findings into actionable recommendations for stakeholders.",
+      "url": "https://www.linkedin.com/company/flow-datainnovation/",
+      "location": "Barcelona, Catalonia, Spain"
+    },
+    {
+      "name": "University of Bergen",
+      "position": "Research Stay",
+      "startDate": "2022-05-31",
+      "endDate": "2022-05-31",
+      "highlights": [],
+      "summary": "During this time, I worked closely with my supervisor on a subject related with fairness and explainability. I also had the chance to present my findings at the group seminar. I found this experience to be extremely valuable. It also gave me the chance to learn new techniques and expand my skillset.",
+      "url": "https://www.linkedin.com/school/university-of-bergen/",
+      "location": "Bergen, Vestland, Norway"
+    },
+    {
+      "name": "Stayforlong",
+      "position": "Data Scientist",
+      "startDate": "2020-01-31",
+      "endDate": "2021-05-31",
+      "highlights": [],
+      "summary": "- Data Science applications to improve the company operations (Content categorization) - Pyhton.\n- Collect, analyse and interpret data in order to identify opportunities to improve processes and strategies with technology solutions - Luigi, AWS, Python.\n- Reports development to support decision making - Redshift, Athena, Looker.",
+      "url": "https://www.linkedin.com/company/stayforlong/",
+      "location": "Barcelona, Catalonia, Spain"
+    },
+    {
+      "name": "Emailing Network",
+      "position": "Data Scientist",
+      "startDate": "2017-05-31",
+      "endDate": "2020-01-31",
+      "highlights": [],
+      "summary": "- Data Science applications to improve the company operations (Recommendation systems and production optimization) - Spark MLlib, Pyhton.\n- Collect, analyze and interpret data in order to identify opportunities to improve processes and strategies with technology solutions - Airflow, AWS, Python, Zeppelin, Jupyter Notebooks.\n- Collaborate with business users and analyze business processes and requirements.\n- Reports development to support decision making - Redshift, Tableau.",
+      "url": "https://www.linkedin.com/company/reworld-media-spain/",
+      "location": "Barcelona Area, Spain"
+    },
+    {
+      "name": "Cabify",
+      "position": "Data scientist",
+      "startDate": "2016-02-28",
+      "endDate": "2016-07-31",
+      "highlights": [],
+      "summary": "- Dashboards development to support decision making using Tableau Software. \n- Automatization of recurrent reports (Python, SQL). \n- ETL process development to analyze business metrics.",
+      "url": "https://www.linkedin.com/company/cabify/"
+    },
+    {
+      "name": "24symbols",
+      "position": "Data scientist",
+      "startDate": "2014-05-31",
+      "endDate": "2016-02-28",
+      "highlights": [],
+      "summary": "- Technical support and data analysis tasks. \n- Automatic generation of statistical reports (SQL, Ruby). \n- Sales forecasting using time series in R.\n- User behavior analysis. \n- Proof of concepts with Apache Zeppelin, Spark, Cassandra and ELK.",
+      "url": ""
+    },
+    {
+      "name": "Universidad Central ¨Marta Abreu¨ de Las Villas",
+      "position": "Lecturer and Researcher",
+      "startDate": "2008-09-30",
+      "endDate": "2013-09-30",
+      "highlights": [],
+      "summary": "- Imparted courses: Algebra and Analytic Geometry, Mathematical analysis, Programming, Software Engineering, Statistical and intelligent methods for decision making.\n- Researcher at the Artificial Intelligence group. Investigation area: Metaheuristics and Reinforcement Learning applied to optimization/scheduling problems.",
+      "url": "",
+      "location": "Santa Clara, Cuba"
     }
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "DataForGoodBCN",
+      "position": "Data Analyst",
+      "startDate": "2019-12-31",
+      "endDate": "2020-06-30",
+      "summary": "As a volunteer, I had the opportunity to collect, analyse and visualise data to help ASSIS (https://www.assis.cat/) to understand the impact of their work. I have found great fulfilment in using my analytical skills to make a positive impact.\n\nProject Description: https://dataforgoodbcn.com/portfolio_page/assis-visualizacion-de-los-datos/",
+      "highlights": [],
+      "url": "https://www.linkedin.com/company/34913501"
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
-    }
-  ],
-  "awards": [
+      "institution": "Universidad de Granada",
+      "area": "Information technology and communications",
+      "studyType": "PhD Student",
+      "startDate": "2020-12-31",
+      "endDate": "2025-12-31",
+      "score": "",
+      "courses": []
+    },
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "institution": "Universidad Central \"Marta Abreu\" de Las Villas",
+      "area": "Computer Science",
+      "studyType": "Master degree",
+      "startDate": "2008-12-31",
+      "endDate": "2010-12-31",
+      "score": "",
+      "courses": [
+        " - Administration of Projects",
+        " - Parallel programming",
+        " - Qualitative analysis of Data",
+        " - Distributed databases",
+        " - Knowledge based systems",
+        " - Artificial Networks",
+        " - Pattern Recognition"
+      ]
+    },
+    {
+      "institution": "Universidad Central \"Marta Abreu\" de Las Villas, Santa Clara, Cuba",
+      "area": "Computer Science",
+      "studyType": "Bachelor degree",
+      "startDate": "2003-12-31",
+      "endDate": "2008-12-31",
+      "score": "",
+      "courses": []
     }
   ],
+  "awards": [],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "name": "High-Dimensional Data Analysis",
+      "issuer": "edX",
+      "url": "https://courses.edx.org/certificates/2844f352bbb044849f88932c0407957b"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "name": "The Magical Marvels of MongoDB",
+      "issuer": "Code School",
+      "url": "https://www.codeschool.com/courses/the-magical-marvels-of-mongodb"
     }
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "A Reinforcement Learning Approach for the Flexible Job Shop Scheduling Problem",
+      "publisher": "Lecture Notes in Computer Science",
+      "releaseDate": "2011-01-17",
+      "summary": "",
+      "url": "http://link.springer.com/chapter/10.1007/978-3-642-25566-3_19"
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
+      "name": "Statistics",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Python",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Programming",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "R",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Reworld Media Spain",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Apache Spark",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Optimization",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "SQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Algorithms",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "XML",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Aprendizaje automático",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Software Engineering",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "E-Learning",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "JavaScript",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "MySQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Research",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Software Development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Java",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "University Teaching",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Tableau",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Linux",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Machine Learning",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "C++",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Higher Education",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "NoSQL",
+      "level": "",
+      "keywords": []
     }
   ],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
+      "fluency": "Professional Working",
+      "language": "English"
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
+      "fluency": "Native Speaker",
+      "language": "Spanish"
     }
   ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
-    }
-  ]
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "meta": {
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  }
 }
