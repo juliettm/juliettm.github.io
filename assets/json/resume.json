@@ -2,12 +2,12 @@
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
     "name": "Juliett M. Suárez Ferreira",
-    "label": "Helping companies to solve problems based on data. Committed to responsible and ethical use of machine learning to benefit society.",
+    "label": "Committed to a responsible and ethical use of AI to benefit society.",
     "image": "",
-    "email": "juliettm@gmail.com",
+    "email": "",
     "phone": "",
     "url": "",
-    "summary": "I have 8+ years hands on business experience as Data Scientist in different businesses (size, model, approach) where I’ve managed to help Marketing, Operations, Sales and Tech teams be aware of and act upon relevant information extracted from company data. By building and providing personalised dashboards in Tableau, recommender systems with ML and other data products, we have slashed operational costs, optimised productivity and automated numerous tasks.    \nI also have five years of experience working in the academy where I could learn structured, formal knowledge and methodologies while I was teaching and being part of an investigation group.",
+    "summary": "I have 10+ years hands on business experience as Data Scientist in different businesses (size, model, approach) where I’ve managed to help Marketing, Operations, Sales and Tech teams be aware of and act upon relevant information extracted from company data. By building and providing personalised dashboards in Tableau, recommender systems with ML and other data products, we have slashed operational costs, optimised productivity and automated numerous tasks.    \nI also have five years of experience working in the academy where I could learn structured, formal knowledge and methodologies while I was teaching and being part of an investigation group.",
     "location": {
       "countryCode": "US",
       "address": "Spain"
